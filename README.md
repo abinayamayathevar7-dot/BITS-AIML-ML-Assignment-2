@@ -139,7 +139,7 @@ Application features:
 
 ## 9. GitHub Repository
 
-**GitHub Repository:** [https://github.com/abinayamayathevar7-dot/BITS-AIML-ML-Assignment-2/edit/main/]
+**GitHub Repository:** [https://github.com/abinayamayathevar7-dot/BITS-AIML-ML-Assignment-2]
 
 ### Project Structure
 
