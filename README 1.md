@@ -13,7 +13,7 @@ Implement five classification algorithms on one public dataset, compare their pe
 - **Source:** Scikit-learn Breast Cancer Wisconsin (Diagnostic) dataset; original data from UCI Machine Learning Repository.
 
 ## c. GitHub Repository Link
-**Replace before submission:** `[PASTE YOUR PUBLIC GITHUB REPOSITORY URL HERE]`
+**Replace before submission:** `[https://github.com/abinayamayathevar7-dot/BITS-AIML-ML-Assignment-2/edit/main/]`
 
 Repository contents: `app.py`, `train_models.py`, `requirements.txt`, `README.md`, `train_data.csv`, `test_data.csv`, `model_metrics.csv`, and five saved models in `model/`.
 
@@ -32,7 +32,7 @@ All values below are calculated on the same held-out test set. Class `1` (benign
 Logistic Regression and Support Vector Machine tie on accuracy, precision, recall, F1 and MCC for this particular split. Logistic Regression has a slightly higher AUC (0.9954 compared with 0.9950), so it is selected as the winner using AUC as the tie-breaker. This conclusion applies only to this dataset, split and parameter choices.
 
 ## Streamlit application
-**Replace before submission:** `[PASTE YOUR DEPLOYED STREAMLIT COMMUNITY CLOUD URL HERE]`
+**Replace before submission:** `[https://bits-aiml-ml-assignment-2-dfnsem3uefqyv6suydagmn.streamlit.app/]`
 
 The application provides CSV upload, model selection, six evaluation metrics, a confusion matrix and a classification report. It loads saved trained models and evaluates the uploaded test data without retraining.
 
