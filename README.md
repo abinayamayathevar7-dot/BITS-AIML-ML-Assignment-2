@@ -135,11 +135,11 @@ Application features:
 - Display Accuracy, AUC, Precision, Recall, F1-score and MCC.
 - Display confusion matrix and classification report.
 
-**Live Streamlit Application:** [ADD YOUR DEPLOYED STREAMLIT URL HERE]
+**Live Streamlit Application:** [(https://bits-aiml-ml-assignment-2-dfnsem3uefqyv6suydagmn.streamlit.app/)]
 
 ## 9. GitHub Repository
 
-**GitHub Repository:** [ADD YOUR GITHUB REPOSITORY URL HERE]
+**GitHub Repository:** [https://github.com/abinayamayathevar7-dot/BITS-AIML-ML-Assignment-2/edit/main/]
 
 ### Project Structure
 
