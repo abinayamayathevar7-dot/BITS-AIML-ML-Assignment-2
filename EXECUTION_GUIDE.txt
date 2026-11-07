@@ -1,0 +1,15 @@
+BITS VIRTUAL LAB EXECUTION
+1. Upload/extract this project folder in BITS Virtual Lab.
+2. Open terminal in this folder.
+3. Run: pip install -r requirements.txt
+4. Run: python train_models.py
+5. Run: streamlit run app.py
+6. Open the local URL shown in the terminal. Upload test_data.csv.
+7. Select each of the five models and verify six metrics, confusion matrix and classification report.
+8. Capture one screenshot of the running assignment inside BITS Virtual Lab.
+9. Create your own public GitHub repository and upload all files, including model/ and test_data.csv.
+10. Deploy app.py from GitHub using Streamlit Community Cloud. Test the public URL.
+11. Replace placeholders in README.md and in the final PDF. Add actual links and your own BITS Lab screenshot.
+12. Submit ONE PDF in this order: GitHub link, live app link, BITS Lab screenshot, complete README content.
+
+IMPORTANT: Do not submit placeholder links. Run and understand the code yourself, customize the analysis in your own words, and maintain genuine commit history. Your assignment brief permits AI for learning support, not direct copy-paste submissions.
